@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/134328a1-9523-4f75-951c-6f097bf3411a)
 
 2. **Tampilan Halaman Tambah Barang (tambah.php)
-![image](https://github.com/user-attachments/assets/a120a7fd-8f90-4a7c-87c2-5de65a6f699d)
+![image](https://github.com/user-attachments/assets/cc91cd87-eb5e-430b-98f0-a36ca9d69867)
 ![image](https://github.com/user-attachments/assets/ac7ce297-81c4-4a42-a672-8f7a2f4c389b)
 
 3. **Tampilan Halaman Ubah Barang (ubah.php)
