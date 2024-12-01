@@ -29,4 +29,9 @@
 ![image](https://github.com/user-attachments/assets/ac7ce297-81c4-4a42-a672-8f7a2f4c389b)
 
 3. **Tampilan Halaman Ubah Barang (ubah.php)
-   
+   ![image](https://github.com/user-attachments/assets/618c39f0-689f-45f0-a10f-7aa15f6aae58)
+
+### Kesimpulan
+1. Modularisasi membuat struktur kode lebih rapi dan terorganisir.
+2. Dengan memanfaatkan `header.php` dan `footer.php`, elemen HTML yang sama dapat digunakan di semua halaman tanpa pengulangan.
+3. Implementasi modularisasi berhasil diterapkan pada program CRUD dari praktikum 8.
